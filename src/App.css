@@ -8,7 +8,7 @@
 }
 body {
   background-image: url('https://raw.githubusercontent.com/bocacode/node-api-json-coffees/main/coffee-beans-bk.webp');
-  background-size: cover;
+  background-size: contain;
   background-repeat:repeat-y;
   text-align: center;
 }
